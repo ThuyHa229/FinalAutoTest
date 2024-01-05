@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS02,Chrome 120.0.0.0,,,03-01-2024 09:52:30,03-01-2024 09:52:45,14.672s,PASSED
+,,,,,,,
+Test Cases/Signup/TC03,Chrome 120.0.0.0,,,03-01-2024 09:52:30,03-01-2024 09:52:44,14.030s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,03-01-2024 09:52:31,03-01-2024 09:52:33,2.259s,PASSED
+"navigateToUrl(""https://hoayeuthuong.com/"")",Chrome 120.0.0.0,,,03-01-2024 09:52:33,03-01-2024 09:52:36,3.275s,PASSED
+"click(findTestObject(""Object Repository/Page_1 tin nhn mi/div_Ti khonSign inBn cha cha c ti khonNhn v_1096e6""))",Chrome 120.0.0.0,,,03-01-2024 09:52:36,03-01-2024 09:52:38,2.028s,PASSED
+"click(findTestObject(""Object Repository/Page_1 tin nhn mi/a_Sign in""))",Chrome 120.0.0.0,,,03-01-2024 09:52:38,03-01-2024 09:52:40,1.722s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucLogintxtEmail""), ""ykimtra22062003@gmail.com"")",Chrome 120.0.0.0,,,03-01-2024 09:52:40,03-01-2024 09:52:41,1.448s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucLogintxtPassword""), ""VJ6uNRAKvEsaM3HKuewOwQ=="")",Chrome 120.0.0.0,,,03-01-2024 09:52:41,03-01-2024 09:52:42,0.844s,PASSED
+"click(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucLoginbtnLogin""))",Chrome 120.0.0.0,,,03-01-2024 09:52:42,03-01-2024 09:52:44,1.707s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,03-01-2024 09:52:44,03-01-2024 09:52:44,0.383s,PASSED
+,,,,,,,
+Test Cases/Signup/TC04,Chrome 120.0.0.0,,,03-01-2024 09:52:44,03-01-2024 09:52:45,0.238s,PASSED
+return null,Chrome 120.0.0.0,,,03-01-2024 09:52:45,03-01-2024 09:52:45,0.003s,PASSED
