@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01,Chrome 120.0.0.0,,,03-01-2024 09:51:34,03-01-2024 09:51:51,16.411s,PASSED
+,,,,,,,
+Test Cases/Login/TC01,Chrome 120.0.0.0,,,03-01-2024 09:51:35,03-01-2024 09:51:50,15.832s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,03-01-2024 09:51:35,03-01-2024 09:51:37,2.400s,PASSED
+"navigateToUrl(""https://hoayeuthuong.com/"")",Chrome 120.0.0.0,,,03-01-2024 09:51:37,03-01-2024 09:51:40,2.196s,PASSED
+"click(findTestObject(""Object Repository/Page_Shop hoa ti Hoayeuthuong t hoa online,_070fbc/div_Ti khonSign inBn cha cha c ti khonNhn v_1096e6""))",Chrome 120.0.0.0,,,03-01-2024 09:51:40,03-01-2024 09:51:42,2.009s,PASSED
+"click(findTestObject(""Object Repository/Page_1 tin nhn mi/a_Sign in""))",Chrome 120.0.0.0,,,03-01-2024 09:51:42,03-01-2024 09:51:43,1.168s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtEmail""), ""ykimtra22062003@gmail.com"")",Chrome 120.0.0.0,,,03-01-2024 09:51:43,03-01-2024 09:51:44,1.579s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtPassword""), ""VJ6uNRAKvEsaM3HKuewOwQ=="")",Chrome 120.0.0.0,,,03-01-2024 09:51:44,03-01-2024 09:51:45,0.542s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtFirstName""), ""tra"")",Chrome 120.0.0.0,,,03-01-2024 09:51:45,03-01-2024 09:51:46,0.832s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtLastName""), ""kim"")",Chrome 120.0.0.0,,,03-01-2024 09:51:46,03-01-2024 09:51:47,0.830s,PASSED
+"click(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtLastName""))",Chrome 120.0.0.0,,,03-01-2024 09:51:47,03-01-2024 09:51:47,0.543s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtPhoneNumber""), ""0869856193"")",Chrome 120.0.0.0,,,03-01-2024 09:51:47,03-01-2024 09:51:48,0.885s,PASSED
+"setText(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegistertxtAddress""), ""Mỹ khuê 3, Đà nẵng"")",Chrome 120.0.0.0,,,03-01-2024 09:51:48,03-01-2024 09:51:49,0.809s,PASSED
+"click(findTestObject(""Object Repository/Page_shop hoa  hoa ti  in hoa  hoayeuthuong.com/input_ctl00cphContentucRegisterbtnRegister""))",Chrome 120.0.0.0,,,03-01-2024 09:51:49,03-01-2024 09:51:50,1.352s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,03-01-2024 09:51:50,03-01-2024 09:51:50,0.216s,PASSED
+,,,,,,,
+Test Cases/Login/TC02,Chrome 120.0.0.0,,,03-01-2024 09:51:50,03-01-2024 09:51:51,0.199s,PASSED
+return null,Chrome 120.0.0.0,,,03-01-2024 09:51:51,03-01-2024 09:51:51,0.003s,PASSED
